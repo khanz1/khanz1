@@ -30,7 +30,7 @@ Here are some of the projects I've been working on:
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/angga-maulana/))
+- [LinkedIn](https://www.linkedin.com/in/angga-maulana/)
 - [Personal Website](https://khanz1.dev)
 
 Thanks for visiting my profile! Feel free to reach out to me if you have any questions or just want to connect.
