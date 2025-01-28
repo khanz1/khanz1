@@ -1,6 +1,6 @@
-# Hi there, I'm Khan 👋
+# Hi there, I'm Angga Maulana 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [your areas of interest, e.g., web development, machine learning, open-source projects, etc.]. Below is a bit about me and some of the projects I've been working on.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Web Development. Below is a bit about me and some of the projects I've been working on.
 
 ## 🚀 About Me
 
