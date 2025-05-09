@@ -45,16 +45,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 | Language    | Hours Spent |
 |-------------|-------------|
-| JavaScript | 973h 54m |
-| TypeScript | 477h 43m |
+| JavaScript | 974h 1m |
+| TypeScript | 479h 21m |
 | Other | 259h 17m |
 | Vue.js | 116h 16m |
 | Markdown | 98h 29m |
-| JSON | 90h 41m |
+| JSON | 90h 59m |
 | HTML | 79h 45m |
 | JSX | 64h 56m |
-| Text | 40h 14m |
-| CSS | 34h 20m |
+| Text | 40h 32m |
+| CSS | 34h 26m |
 
 ---
 
