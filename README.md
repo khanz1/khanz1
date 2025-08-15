@@ -45,8 +45,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 | Language    | Hours Spent |
 |-------------|-------------|
-| JavaScript | 1042h 29m |
-| TypeScript | 596h 4m |
+| JavaScript | 1044h 14m |
+| TypeScript | 597h 12m |
 | Java | 12h 18m |
 | Python | 6h 2m |
 | C | 1h 18m |
